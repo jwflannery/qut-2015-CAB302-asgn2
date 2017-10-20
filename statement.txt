@@ -1,0 +1,17 @@
+Kayla Degraaf 08599874
+James Flannery 08326631
+
+
+-Container tests, CargoManifest class, ContainerCode tests done by Kayla
+-Container classes, ContainerCode class, Manifest Tests done by James
+-Exception classes done together
+-Gui classes done together
+
+This contribution summary is agreed upon by both of us.
+
+As far as we know, the assignment is complete to the spec and has no bugs.
+We have implemented the graphical version of the GUI.
+
+This project needs to be run in the latest version of eclipse or the toString method of the manifest will not output correctly.
+
+We have used manual GUI tests. 
